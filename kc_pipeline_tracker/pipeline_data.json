@@ -1,0 +1,15 @@
+[
+    {
+      "project_name": "Union at the Crossroads",
+      "developer": "XYZ Development",
+      "address": "123 Main St, Kansas City, MO",
+      "submarket": "Downtown KC",
+      "type": "Multifamily",
+      "units": 248,
+      "status": "Under Construction",
+      "expected_completion": "2025-12-01",
+      "notes": "Mixed-use with retail",
+      "last_updated": "2025-03-01T00:00:00"
+    }
+  ]
+  
